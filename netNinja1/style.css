@@ -1,0 +1,21 @@
+*{
+    font-family: verdana;
+    margin: 0;
+    font-size: medium;
+    text-align: center;
+    list-style-position: inside;
+}
+
+body{
+    background: cyan;
+    flex: auto;
+}
+
+.wrapper{
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+
+
